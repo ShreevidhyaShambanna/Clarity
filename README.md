@@ -26,6 +26,18 @@ pip install -r requirements/requirements.txt
 Data
 Due to the large size of the data, it's not tracked by Git. After cloning the repository, download and place the datasets in the appropriate directory as specified in the data loading scripts.
 
+We gathered datasets from these sources:
+https://huggingface.co/datasets/hizardev/MentalHealthChat
+https://huggingface.co/datasets/Kanakmi/mental-disorders
+https://huggingface.co/datasets/Amod/mental_health_counseling_conversations
+https://huggingface.co/datasets/heliosbrahma/mental_health_chatbot_dataset
+https://huggingface.co/datasets/vibhorag101/phr_mental_therapy_dataset
+https://huggingface.co/datasets/jsfactory/mental_health_reddit_posts
+https://huggingface.co/datasets/Riyazmk/mentalhealth
+https://huggingface.co/datasets/alexandreteles/mental-health-conversational-data
+https://huggingface.co/datasets/mpingale/mental-health-chat-dataset
+
+
 Usage
 
 To run the EmpathAI chatbot, execute the main.py script:
