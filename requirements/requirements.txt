@@ -1,0 +1,11 @@
+pandas
+nltk
+scikit-learn
+datasets==1.18.3
+transformers==4.15.0
+torch
+numpy
+tqdm
+matplotlib
+sentence-transformers==2.2.0
+openai==0.28

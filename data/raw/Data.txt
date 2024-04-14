@@ -1,0 +1,36 @@
+# EmpathAI Datasets
+
+The following datasets were used for the EmpathAI project, sourced from Hugging Face:
+
+1. MentalHealthChat Dataset by Hizardev
+   Link: https://huggingface.co/datasets/hizardev/MentalHealthChat
+
+2. Dataset 2 
+   Link: https://huggingface.co/datasets/Kanakmi/mental-disorders
+
+3. Dataset 3 
+   Link: https://huggingface.co/datasets/Amod/mental_health_counseling_conversations
+
+4. Dataset 4 
+   Link: https://huggingface.co/datasets/heliosbrahma/mental_health_chatbot_dataset
+
+5. Dataset 5 
+   Link: https://huggingface.co/datasets/vibhorag101/phr_mental_therapy_dataset
+
+6. Dataset 6 
+   Link: https://huggingface.co/datasets/jsfactory/mental_health_reddit_posts
+
+7. Dataset 7 
+   Link: https://huggingface.co/datasets/Riyazmk/mentalhealth
+
+8. Dataset 8 
+   Link: https://huggingface.co/datasets/alexandreteles/mental-health-conversational-data
+
+9. Dataset 9 
+   Link: https://huggingface.co/datasets/mpingale/mental-health-chat-dataset
+
+These datasets are publicly available and were used to train and evaluate the NLP models within the EmpathAI project.
+
+# Additional Notes
+- The datasets are used under the permissions provided by the Hugging Face's terms of use.
+- Ensure you adhere to the respective licenses and usage terms provided by the dataset creators.
